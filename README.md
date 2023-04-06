@@ -57,11 +57,11 @@ Join me on my journey through the chaotic world of my interests.
       <th><b>Rank Type</b></th>
     </tr>
     <tr align="center">
-      <td>470</td>
-      <td>165</td>
-      <td>17</td>
-      <td>12</td>
-      <td>Hacker</td>
+      <td>438</td>
+      <td>240</td>
+      <td>18</td>
+      <td>14</td>
+      <td>Pro Hacker</td>
     </tr>
   </table>
   <p>
