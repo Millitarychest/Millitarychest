@@ -89,7 +89,6 @@ Join me on my journey through the chaotic world of my interests.
 <hr>
 <!--#####################################################################################################################################################################################-->
 
-<details>
 <h1>📊 GitHub Stats and Trophies</h1>
 
 <p align="center">
@@ -101,7 +100,6 @@ Join me on my journey through the chaotic world of my interests.
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Millitarychest&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"></p>
 
-</details>
 <hr>
 <!--###########################################################################################################################################################-->
 
