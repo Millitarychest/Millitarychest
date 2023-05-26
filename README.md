@@ -89,7 +89,7 @@ Join me on my journey through the chaotic world of my interests.
 <hr>
 <!--#####################################################################################################################################################################################-->
 
-<h1>📊 GitHub Stats and Trophies</h1>
+<h1>Stats and Trophies</h1>
 
 <p align="center">
 <a href="https://github.com/DuseTrive">
@@ -99,7 +99,8 @@ Join me on my journey through the chaotic world of my interests.
 <br>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Millitarychest&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"></p>
-
+<br>
+<p align="center"><img src="https://www.hackthebox.com/badge/image/1252668"></p>
 <hr>
 <!--###########################################################################################################################################################-->
 
