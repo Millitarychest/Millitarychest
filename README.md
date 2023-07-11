@@ -109,6 +109,6 @@ Join me on my journey through the chaotic world of my interests.
 
 <h1 align="center">Latest Tweet</h1> 
 <p align="center">
-<a href="https://twitter.com/Millitarychest"><img src="https://gtce.itsvg.in/api?username=Millitarychest&theme=transparent&response=true&border=true&time=false&icon=hashtag"/></a>
+<a href="https://twitter.com/Millitarychest"><img src="https://gtce.itsvg.in/api?username=Millitarychest&theme=dracula&response=true&border=true&time=true&icon=default"/></a>
 </p> </a>
 <hr>
