@@ -92,7 +92,7 @@ Join me on my journey through the chaotic world of my interests.
 <h1>Stats and Trophies</h1>
 
 <p align="center">
-<a href="https://github.com/DuseTrive">
+<a href="https://github.com/Millitarychest">
   <img src="https://github-readme-stats.vercel.app/api?username=Millitarychest&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true"height="192px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Millitarychest&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="192px">
 </a></p>
