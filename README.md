@@ -27,7 +27,6 @@
 
 <!--##############################################################################################################################################################-->
 
-<!--About me section- generated using CHATRGPT-->
 <h1>🙋‍♂️ About me</h1>
 <p align="center">
 As an enjoyer of many things, I'm driven by a quest for knowledge. <br>
